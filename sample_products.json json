@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Wireless Noise-Cancelling Headphones",
+    "category": "electronics",
+    "features": ["Bluetooth 5.3", "Active Noise Cancellation", "30-hour battery life"],
+    "benefits": ["immersive sound experience", "block out external noise"],
+    "usp": "Best-in-class noise-cancelling tech with long battery life",
+    "specs": {
+      "Battery": "30 hours",
+      "Weight": "240g",
+      "Bluetooth": "5.3"
+    },
+    "keywords": ["noise cancelling headphones", "Bluetooth headphones", "wireless headphones"]
+  }
+]
